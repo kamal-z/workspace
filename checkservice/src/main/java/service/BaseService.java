@@ -1,4 +1,4 @@
-package verita;
+package service;
 
 public interface BaseService {
 	
